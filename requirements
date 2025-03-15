@@ -1,4 +1,6 @@
 jupyterlab==4.1.2
+keras==3.4.1
 pandas==2.2.1
 matplotlib==3.8.3
 sympy==1.12.1
+tensorflow==2.16.2
